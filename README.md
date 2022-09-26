@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebz444
 - 👀 I study how the brain makes decisions using temporal information. 
-- 🌱 I’m currently a PhD student at JHU SOM. 
+- 🌱 I’m currently a PhD candidate at JHU SOM. 
 - 💞️ I’m looking to collaborate on using RL to understand the brain.  
 - 📫 You can reach me at yzhan485@jhmi.edu
 
